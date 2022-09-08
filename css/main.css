@@ -218,7 +218,7 @@ header {
 
 main {
   padding: 4rem;
-  min-height: calc(100vh); }
+  height: 100vh; }
 
 main#home {
   overflow: hidden; }
